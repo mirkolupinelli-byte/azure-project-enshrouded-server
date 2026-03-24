@@ -26,6 +26,13 @@ Deployed a dedicated Enshrouded game server on Microsoft Azure using a cost-effi
 ## Result
 Successfully deployed a fully functional dedicated server accessible from an external client via public IP.
 
+## Screenshots
+### Server Connection
+![Server Found](architecture/server-found.png)
+
+### Windows VM (RDP)
+![VM RDP](architecture/vm-rdp.png)
+
 ## Skills Demonstrated
 - Azure Virtual Machines
 - Virtual Networking (VNet, Subnet, NSG)
