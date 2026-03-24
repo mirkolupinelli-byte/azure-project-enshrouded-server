@@ -27,6 +27,9 @@ Deployed a dedicated Enshrouded game server on Microsoft Azure using a cost-effi
 Successfully deployed a fully functional dedicated server accessible from an external client via public IP.
 
 ## Screenshots
+## Architecture
+![Architecture](architecture/diagram.png)
+
 ### Server Connection
 ![Server Found](architecture/server-found.png)
 
