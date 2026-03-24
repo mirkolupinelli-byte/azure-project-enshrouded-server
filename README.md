@@ -6,7 +6,7 @@ Deployed a dedicated Enshrouded game server on Microsoft Azure using a cost-effi
 
 ## Architecture
 - Virtual Network (VNet) with subnet segmentation
-- Network Security Group (NSG) allowing only required inbound ports (22 for SSH/RDP, 15636 for game traffic)
+- Network Security Group (NSG) allowing only required inbound ports (3389 for RDP, 15636 for game traffic)
 - Windows Virtual Machine hosting the game server
 - Public IP with DNS label for external access
 - Auto-shutdown configured to optimize costs
