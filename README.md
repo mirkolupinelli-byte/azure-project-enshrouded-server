@@ -31,7 +31,7 @@ Successfully deployed a fully functional dedicated server accessible from an ext
 ![Server Found](architecture/server-found.png)
 
 ### Windows VM (RDP)
-![VM RDP](architecture/vm-rdp.png)
+![VM RDP](architecture/vm-rdp.PNG)
 
 ## Skills Demonstrated
 - Azure Virtual Machines
